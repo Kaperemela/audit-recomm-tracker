@@ -3,7 +3,8 @@ import streamlit as st
 import plotly.express as px
 from PIL import Image
 
-st.set_page_config(page_title='Audit Recommendations Tracker')
+#st.set_page_config(page_title='Audit Recommendations Tracker')
+st.set_page_config(page_title="Audit Recommendations Tracker", page_icon="🚀", layout="wide", theme="light")
 # st.header('AUDIT RECOMMENDATIONS TRACKING TOOL DASHBOARD - SAI NAURU')
 # st.subheader('Supreme Audit Institution of Nauru')
 
